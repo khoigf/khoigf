@@ -1,16 +1,35 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**khoigf/khoigf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm khoi, a Student studies in HUST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on HUST.
+- 🌱 I’m currently learning WEB.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ???
+
+## Skills
+
+- Programming Languages: ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+                         ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+                         ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+                         ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+                         ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+                         ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- Technologies: VISUAL STUDIO CODE,ECLIPSE,...
+- Tools: JSP,EXPRESSJS,BOOTTRAP,..
+
+## Projects
+
+- See it in my repositories
+
+## GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+## Connect with Me
+
+???
+
+Feel free to explore my repositories and don't hesitate to reach out! 😊
