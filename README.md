@@ -18,7 +18,7 @@ Hello! I'm khoi, a Student studies in HUST.
                          ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
                          ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 - Technologies: Visual Studio Code ![Visual Studio Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png),
-                Eclipse ![Eclipse Icon](https://img.icons8.com/fluency/48/000000/java-eclipse.png)
+                Eclipse ![Eclipse Icon](https://img.icons8.com/color/48/000000/eclipse-ide.png)
 - Tools: JSP ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png),EXPRESSJS ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png),BOOTTRAP ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ## Projects
