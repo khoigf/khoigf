@@ -13,9 +13,10 @@ Hello! I'm khoi, a Student studies in HUST.
 
 - Programming Languages: Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png),
                          Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png),
-                         HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png),CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png),
+                         HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png),
+                         CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png),
                          NodeJS ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png),
-                         C ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+                         C ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png),
                          C++ ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 - Technologies: Visual Studio Code ![Visual Studio Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png),
                 Eclipse ![Eclipse Icon](https://img.icons8.com/color/48/000000/eclipse.png)
