@@ -27,7 +27,7 @@ Hello! I'm khoi, a Student studies in HUST.
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoigf&show_icons=true&theme=radical)](https://github.com/khoigf)
 
 ## Connect with Me
 
