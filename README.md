@@ -33,6 +33,9 @@ Hello! I'm khoi, a Student studies in HUST.
 ## Connect with Me
 
 https://www.tiktok.com/@khoi_huy?is_from_webapp=1&sender_device=pc
+
+https://www.facebook.com/khoi.huy.1232/
+
 ???
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
